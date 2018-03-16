@@ -4,7 +4,7 @@
 
 一个产品，如果需要快速迭代开发上线，又要保证质量，保证刚上线的系统，一旦出现问题那么可以很快的控制影响面，就需要设计一套灰度发布系统．灰度发布系统的作用在于，可以根据自己的配置，来将用户的流量导到新上线的系统上，来快速验证新的功能修改，而一旦出问题，也可以马上的恢复，简单的说，就是一套A/BTest系统．
 
-![](https://gitee.com/cpsa3/knowledge_base/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/image/1.png)
+![](https://github.com/cpsa3/knowledge_base/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/image/1.png)
 
 #### 作用
 及早获得用户的意见反馈，完善产品功能，提升产品质量 让用户参与产品测试，加强与用户互动 降低产品升级所影响的用户范围
